@@ -32,7 +32,7 @@ And this is what this project is all about.  After you realise you have an issue
 
 But... if you measure first, then it sets you up for success.  Remove the objectivity. Prove you have brought value.
 
-Once we get really started, please explore the sub-projects we will create.  Each has example and documentation and actual **proof** of the benefits
+Once we get really started, please explore the sub-projects we will create.  Each has examples and documentation and actual **proof** of the benefits
 
 We will also (hopefully) introduce some very different approaches to this using the new React Profiler and using Babel to inject performance capturing code.  If we don't get to that -- apologies -- but we have plenty of ideas around it.  So always feel free to share and collaborate with us.
 
