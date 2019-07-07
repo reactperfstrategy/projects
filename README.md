@@ -16,15 +16,20 @@ But.... but what are your company's standards for response time?  Do they have a
 
 If your company has no response time standards.. then there will never be a problem.  This isn't a let off.... It's a bad practice.
 
-As an aside, if your company does not have standards in this area, try and impress upon them that the business will use their subjective views to make things uncomfortable -- . 
+As an aside, if your company does not have standards in this area, try and impress upon them that the business will use their subjective views to make things uncomfortable.  Or... try and impress upon them what response times be...
 
+1. Login < 2 seconds
+1. Navigation < 1 second
+1. Acquiring data S(Imple < 2 seconds)  (We recognise that the above might conflict with this)
+1. Cancelling out of dialogues -- even after a DB update < 1 second
 
+For longer running transactions, always put up a Spinner.  Did you know that a Spinner convinces the user that your app is 10% quicker?
+
+**General rule** -- If you know that a transaction is of the non-trivial variety, put up a Spinner.  (Non-Trivial transactions should be more than +2-3 seconds).  This is based on our human attention span -- which is only about 2 seconds.  After that, we start looking 'elsewhere'.  This underlines the importance of 'snappy' response time.  Keep your users focused, and engaged.  When they expect a longer response, let them know by a Spinner.  Understand human behaviour.  Understand a blink of an eye is 300ms (or so).  There are plenty of site that discuss this -- in  biological sense.  (One of them)[https://uxdesign.cc/5-lessons-from-biology-that-predict-successful-ux-products-of-the-future-7492ffead5bf]   Makes sense?
 
 ## Do you measure?
 
 We used functional testing tools such as TestCafe which is ES6 based.. simple to set up and easy to learn.  This allows you to understand what the user is actually seeing - and provides you an opportunity to *prove* that your app is within standards, or after improvements, how your changes bring your app into compliant response standards.
-
-## Lesson 2
 
 But... let's say you know in your Customer Contact 'page' response time is far below where it should be.  Where do you really start?
 
