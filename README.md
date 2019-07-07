@@ -16,12 +16,12 @@ But.... but what are your company's standards for response time?  Do they have a
 
 If your company has no response time standards.. then there will never be a problem.  This isn't a let off.... It's a bad practice.
 
-As an aside, if your company does not have standards in this area, try and impress upon them that the business will use their subjective views to make things uncomfortable.  Or... try and impress upon them what response times be...
+As an aside, if your company does not have standards in this area, try and impress upon them that the business will use their subjective views to make things uncomfortable.  Or... try and impress upon them what response times should be...
 
 1. Login < 2 seconds
 1. Navigation < 1 second
-1. Acquiring data S(Imple < 2 seconds)  (We recognise that the above might conflict with this)
-1. Cancelling out of dialogues -- even after a DB update < 1 second
+1. Acquiring data (Simple < 2 seconds -- We recognise that the above might conflict with this)
+1. Cancelling out of dialogues -- Immediate (This is here because of poorly designed behaviour causing Redux store changes that require data re-acquisition on a cancel.)  Remember what we said about... just do it... then fix later? That is wrong. Do it right first.
 
 For longer running transactions, always put up a Spinner.  Did you know that a Spinner convinces the user that your app is 10% quicker?
 
@@ -31,7 +31,7 @@ Understand human behaviour.  Understand a blink of an eye is 300ms (or so).  The
 
 ## Do you measure?
 
-We used functional testing tools such as TestCafe which is ES6 based.. simple to set up and easy to learn.  This allows you to understand what the user is actually seeing - and provides you an opportunity to *prove* that your app is within standards, or after improvements, how your changes bring your app into compliant response standards.
+We used functional testing tools such as [TestCafe](https://devexpress.github.io/testcafe/) which is ES6 based.. simple to set up and easy to learn.  This allows you to understand what the user is actually seeing - and provides you an opportunity to *prove* that your app is within standards, or after improvements, how your changes bring your app into compliant response standards.
 
 But... let's say you know in your Customer Contact 'page' response time is far below where it should be.  Where do you really start?
 
