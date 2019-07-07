@@ -10,7 +10,7 @@ What we hope to do in this project is to share with you some simple -- and some 
 
 Yes, as Facebook says, React is fast out of the box... but you don't use it out of the box; you add your own components, implement your take on design patterns and so on.  And when things get slow?  What do you do?  Where do you start?
 
-**Measure, measure, and measure again.**  But.... but what are your standards for response time?  Do you have any?  It needs to be objective.  So set some standards.  Login time should be "x", longer transaction times (i.e. when you need to acuire data from several data sources) should be "y".  Set these standards and measure.
+First, **Measure, measure, and measure again.**  But.... but what are your standards for response time?  Do you have any?  It needs to be objective.  So set some standards.  Login time should be "x", longer transaction times (i.e. when you need to acquire data from several data sources) should be "y".  Set these standards and measure.
 
 If your company has no response time standards.. then there will never be a problem.  This isn't a let off.... It's a bad practice.
 
