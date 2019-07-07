@@ -25,7 +25,9 @@ As an aside, if your company does not have standards in this area, try and impre
 
 For longer running transactions, always put up a Spinner.  Did you know that a Spinner convinces the user that your app is 10% quicker?
 
-**General rule** -- If you know that a transaction is of the non-trivial variety, put up a Spinner.  (Non-Trivial transactions should be more than +2-3 seconds).  This is based on our human attention span -- which is only about 2 seconds.  After that, we start looking 'elsewhere'.  This underlines the importance of 'snappy' response time.  Keep your users focused, and engaged.  When they expect a longer response, let them know by a Spinner.  Understand human behaviour.  Understand a blink of an eye is 300ms (or so).  There are plenty of site that discuss this -- in  biological sense.  [One of them](https://uxdesign.cc/5-lessons-from-biology-that-predict-successful-ux-products-of-the-future-7492ffead5bf)   Makes sense?
+**General rule** -- If you know that a transaction is of the non-trivial variety, put up a Spinner.  (Non-Trivial transactions should be more than +2-3 seconds).  This is based on our human attention span -- which is only about 2 seconds.  After that, we start looking 'elsewhere'.  This underlines the importance of 'snappy' response time.  Keep your users focused, and engaged.  When they expect a longer response, let them know by a Spinner.  
+
+Understand human behaviour.  Understand a blink of an eye is 300ms (or so).  There are plenty of sites that discuss this -- in a biological sense.  [One of them.](https://uxdesign.cc/5-lessons-from-biology-that-predict-successful-ux-products-of-the-future-7492ffead5bf) Makes sense?
 
 ## Do you measure?
 
