@@ -14,9 +14,11 @@ First, **Measure, measure, and measure again.**
 
 But.... but what are your company's standards for response time?  Do they have any?  It needs to be objective.  So set some standards.  Login time should be "x", longer transaction times (i.e. when you need to acquire data from several data sources) should be "y".  Set these standards and measure.
 
-As an aside, if your company does not have standards in this area, try and impress upon them that the business will use their subjective views to make things uncomfortable. 
-
 If your company has no response time standards.. then there will never be a problem.  This isn't a let off.... It's a bad practice.
+
+As an aside, if your company does not have standards in this area, try and impress upon them that the business will use their subjective views to make things uncomfortable -- . 
+
+
 
 ## Do you measure?
 
