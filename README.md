@@ -1,6 +1,6 @@
 # About React Performance Strategies
 
-When Amin and I were were working at a major home entertainment company, we realised that performance of the React front end was overlooked.  It was simply a case of "It will be dealt with later".  This is common -- and in fact makes sense in an Agile world where you need to show the business function on a regular basis.
+When we were were working at a major home entertainment company, we realised that performance of the React front end was overlooked.  It was simply a case of "It will be dealt with later".  This is common -- and in fact makes sense in an Agile world where you need to show the business function on a regular basis.
 
 However, there does come a time when performance does become important -- and sometimes, it is extremly difficult to fix given that the focus was function first.
 
