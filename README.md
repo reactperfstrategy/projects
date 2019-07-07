@@ -20,7 +20,7 @@ If your company has no response time standards.. then there will never be a prob
 
 ## Do you measure?
 
-We used functional testing tools such as TestCafe which is ES6 based.. simple to set up and easy to learn.  This allows you to understand what the user is actually seeing - and provides you an opportunity to *prove* that your app is within standards, or after impotremvemts, how you changes now bring your app into compliant response standards.
+We used functional testing tools such as TestCafe which is ES6 based.. simple to set up and easy to learn.  This allows you to understand what the user is actually seeing - and provides you an opportunity to *prove* that your app is within standards, or after improvements, how your changes bring your app into compliant response standards.
 
 ## Lesson 2
 
