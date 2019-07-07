@@ -24,13 +24,13 @@ We used functional testing tools such as TestCafe which is ES6 based.. simple to
 
 ## Lesson 2
 
-But... let's say you know in your Customer Contact 'page' response time is far below what it should be.  Where do you really start?
+But... let's say you know in your Customer Contact 'page' response time is far below where it should be.  Where do you really start?
 
 # Summary
 
-And this is what this project is all about.  After you realise you have an issue, where do you start.  WHat changes can you make...
+And this is what this project is all about.  After you realise you have an issue, where do you start.  What changes can you make?
 
-But.... if you measure first, then it sets you up for success.  Remove the objectivity.
+But... if you measure first, then it sets you up for success.  Remove the objectivity. Prove you have brought value.
 
 Once we get really started, please explore the sub-projects we will create.  Each has example and documentation and actual **proof** of the benefits
 
