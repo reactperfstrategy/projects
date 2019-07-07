@@ -4,7 +4,7 @@ When we were were working at a major home entertainment company in London, we re
 
 However, there does come a time when performance does become important -- and sometimes, it is extremly difficult to fix given that the focus was function first and not using well understood React 'patterns'.  
 
-Some things are easy to fix -- if you know what to look for and employ well known best practices.  Some aren't and requre major surgery!
+Some things are easy to fix -- if you know what to look for and employ well known best practices.  Some aren't and require major surgery!
 
 What we hope to do in this project is to share with you some simple -- and some not so simple -- tips, examples and documentation on how to start to address your performance issues.
 
