@@ -6,7 +6,7 @@ However, there does come a time when performance does become important -- and so
 
 Some things are easy to fix -- if you know what to look for and employ well known best practices.  Some aren't and requre major surgery!
 
-What we hope to do in this project is to share with you some simple -- and some not so simple -- tips, example and documentaiton on how to start to address your performance issues.
+What we hope to do in this project is to share with you some simple -- and some not so simple -- tips, examples and documentation on how to start to address your performance issues.
 
 Yes, as Facebook says, React is fast out of the box... but you don't use it out of the box, you add your own components, implement your take on design patterns and so on.  And when things get slow?  What do you do?  Where do you start?
 
