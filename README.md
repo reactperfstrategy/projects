@@ -1,8 +1,8 @@
 # About React Performance Strategies
 
-When Amin and I were were working at a major home entertainment company, we realised that performance of the React front end was overlooked.  It was simply a case of "It will be dealt with later".  This is common -- and in fact makes sens in an Agile world where you need to show the business function on a regular basis.
+When Amin and I were were working at a major home entertainment company, we realised that performance of the React front end was overlooked.  It was simply a case of "It will be dealt with later".  This is common -- and in fact makes sense in an Agile world where you need to show the business function on a regular basis.
 
-However, there does come a time when performance does becoame important -- and sometimes, it is extremly difficult to fix given that the push was function first.
+However, there does come a time when performance does become important -- and sometimes, it is extremly difficult to fix given that the push was function first.
 
 Some things are easy to fix -- if you know what to look for and employ well known best pratcies.  Some aren't and requre more major surgery!
 
