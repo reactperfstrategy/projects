@@ -10,7 +10,7 @@ What we hope to do in this project is to share with you some simple -- and some 
 
 Yes, as Facebook says, React is fast out of the box... but you don't use it out of the box; you add your own components, implement your take on design patterns and so on.  And when things get slow?  What do you do?  Where do you start?
 
-First, **Measure, measure, and measure again.**  
+**First, Measure, measure, and measure again.**  
 
 But.... but what are your company's standards for response time?  Do they have any?  It needs to be objective.  So set some standards.  Login time should be "x", longer transaction times (i.e. when you need to acquire data from several data sources) should be "y".  Set these standards and measure.
 
@@ -41,9 +41,13 @@ And this is what this project is all about.  After you realise you have an issue
 
 But... if you measure first, then it sets you up for success.  Remove the objectivity. Prove you have brought value.
 
-Once we get really started, please explore the sub-projects we will create.  Each has examples and documentation and actual **proof** of the benefits
+Once we get really started, please explore the sub-projects we will create.  Each will have examples and documentation and actual **proof** of the benefits.
 
 We will also (hopefully) introduce some very different approaches to this using the new React Profiler and using Babel to inject performance capturing code.  If we don't get to that -- apologies -- but we have plenty of ideas around it.  So always feel free to share and collaborate with us.
+
+Lastly, one of the important things to remember is that performance tuning is a self-perpetuating exercise.  Fixing one bottleneck, opens another (or just makes it more apparent).  So don't overdo it.  Many times 20% of the effort, gets you 80% of the way there.  
+
+Remember... The Law of Diminishing Returns.  This is why we say get 80% of the way there.  The last 20% will take a lifetime to solve :-)
 
 
 
