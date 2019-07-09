@@ -39,7 +39,7 @@ But... let's say you know in your Customer Contact 'page' response time is far b
 
 And this is what this project is all about.  After you realise you have an issue, where do you start.  What changes can you make?
 
-But... if you measure first, then it sets you up for success.  Remove the objectivity. Prove you have brought value.
+But... if you measure first, then it sets you up for success.  Remove the subjectivty and replace it with objectivity. Prove you have brought value.
 
 Once we get really started, please explore the sub-projects we will create.  Each will have examples and documentation and actual **proof** of the benefits.
 
